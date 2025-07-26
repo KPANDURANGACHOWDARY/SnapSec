@@ -81,10 +81,3 @@ B.Tech AI/ML Project – 2025
 
 📄 License
 This project is for academic and educational use only.
-
----
-
-Let me know if you want:
-- A matching `requirements.txt`  
-- A GIF or image section for the demo  
-- GitHub profile formatting or logo badge links
